@@ -29,3 +29,11 @@ div {
     border-radius: 20px;
 }
 
+.bald-man {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: #5b3416;
+}
+
