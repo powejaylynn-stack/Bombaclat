@@ -4,8 +4,8 @@ html {
 }
 
 body {
-    background-color: beige;
-    color: black;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -13,11 +13,11 @@ body {
 img {
     width: 250px;
     margin-right: 16px;
-    border: 3px solid #5b3416;
+    border: 3px solid #ff91ca;
 }
 
 div {
-    background-color: beige;
+    background-color: #393939;
     text-align: center;
     padding: 50px;
     max-width: 900px;
