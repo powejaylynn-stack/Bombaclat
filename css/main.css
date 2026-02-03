@@ -8,6 +8,7 @@ body {
     color: rgb(255, 255, 255);
     font-size: 13px;
     font-family: 'roboto mono', monospace;
+    font-weight: 200;
 }
 
 img {
@@ -19,15 +20,27 @@ img {
 div {
     background-color: #000000;
     text-align: center;
-    padding: 50px;
+    padding: 45px;
     max-width: 900px;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin: 40px auto;
-    border: 1px solid coral; 
+    border: 1px solid rgb(255, 255, 255); 
     border-radius: 20px;
 }
+
+.my-h1 {
+    background-color: #000000;
+    text-align: center;
+    padding: 45px;
+    max-width: 900px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 40px auto;
+    border: 1px solid rgba(5, 5, 5, 0); 
+    border-radius: 20px; }
 
 .bald-man {
     width: 700px;
